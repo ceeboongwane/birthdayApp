@@ -2,7 +2,7 @@
 page-home {
 
     ion-content{
-        background-image: url(../assets/imgs/birthdayback.jpg);
+        background-image: url(../assets/imgs/birthdayback2.jpg);
         font-family: Georgia, 'Times New Roman', Times, serif;
         
     }
@@ -10,10 +10,11 @@ page-home {
     #from{
         font-style: italic;
         color: navajowhite;
+        font-size: 20px;
     }
 
     #massage{
-        padding-top: 150px;
+        padding-top: 70px;
         font-size: 30px;
         font-style: italic;
         text-align: center;
@@ -22,10 +23,11 @@ page-home {
 
     #to{
 
-        padding-top: 150px;
+        padding-top: 55px;
         text-align: right;
         font-style: italic;
         color: navajowhite;
+        font-size: 20px;
     }
     
     }
